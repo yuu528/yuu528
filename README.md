@@ -4,6 +4,6 @@
 [![](https://img.shields.io/badge/PGP-EEBF7433021F827C-blue?style=for-the-badge)](https://raw.githubusercontent.com/yuu528/yuu528/main/public-key.pem)
 [![](https://img.shields.io/website?url=https%3A%2F%2Fyuu-g.net&style=for-the-badge&label=yuu-g.net)](https://yuu-g.net)
 
-[![yuu528's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=yuu528&show_icons=true&theme=nightowl)](https://github.com/yuu528)
+[![yuu528's github stats](https://github-readme-stats.vercel.app/api?username=yuu528&show_icons=true&theme=nightowl)](https://github.com/yuu528)
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuu528&theme=nightowl)](https://github.com/yuu528)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuu528&theme=nightowl&layout=donut)](https://github.com/yuu528)
